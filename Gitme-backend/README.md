@@ -1,2 +1,2 @@
-# ooad
+# ooad project - backend
 sustech github
