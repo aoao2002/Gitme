@@ -7,3 +7,6 @@ A code hosting website project
 3.  change the host and database **IP** in `Gitme-backend/src/main/resources/application.properties` and `Gitme-frontend/src/utils/api.js`
 4.  run `Gitme/Gitme-backend/src/main/java/com/example/ooad/OoadApplication.java`
 5.  `npm start`
+
+## Result Picture
+![](result.png)
